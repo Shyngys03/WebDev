@@ -1,0 +1,2 @@
+let PLANETNAME;
+let visitorName;
